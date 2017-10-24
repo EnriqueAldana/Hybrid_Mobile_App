@@ -1,0 +1,10 @@
+<Alloy>
+	 <Tab id="tabMenuGtosViaje" title="AlEn Móvil Menu Gtos Viaje">
+		<Window id="winMenuGtosViaje">
+			<View class="container">
+				<ActivityIndicator id="activityIndicator" />
+				<TableView id="tableRecordsMenuGtosViaje" />
+			</View>
+		 </Window>
+	 </Tab>
+</Alloy>

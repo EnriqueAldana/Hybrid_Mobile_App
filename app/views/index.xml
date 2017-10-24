@@ -1,0 +1,6 @@
+<Alloy>
+    <TabGroup id="tabGroupGastosDeViaje" title="AlEn Móvil Gastos de Viaje">
+        <Require src="solicitudGastos" id="tabsolicitudGastos" tipoLista="SOL"/>
+        <Require src="comprobantesGastos" id="tabcomprobantesGastos" tipoLista="COMP" />
+    </TabGroup>
+</Alloy>

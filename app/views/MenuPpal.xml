@@ -1,0 +1,10 @@
+<Alloy>
+	 <Tab id="tabMenuPpal" title="AlEn Móvil Menu ppal">
+		<Window id="winMenuppal" title ="Menu ppal">
+			<View class="container">
+				<ActivityIndicator id="activityIndicator" />
+				<TableView id="tableRecordsMenuppal" />
+			</View>
+		 </Window>
+	 </Tab>
+</Alloy>

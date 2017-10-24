@@ -1,0 +1,9 @@
+<Alloy>
+    <Window id="detail" backgroundColor="#F3FFFA" borderWidth="1" borderColor="#bbb" borderRadius="5"> 
+        <Label id="detailLabel" color="#bbb"  textAlign="Ti.UI.TEXT_ALIGNMENT_LEFT"/>
+        <View id="RechazarView" layout="vertical" backgroundColor="F1F8F5">
+            <Button id="buttonRechazar" onClick="actionRegresar" top="60"  />
+            <ActivityIndicator id="activityIndicator" />
+        </View>
+    </Window>
+</Alloy>

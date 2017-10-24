@@ -1,0 +1,7 @@
+<Alloy>
+    <Window id="salir" fullscreen="false">
+    
+        <Label id="salirLabel" />
+    
+    </Window>
+</Alloy>

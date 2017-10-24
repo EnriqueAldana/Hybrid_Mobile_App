@@ -1,0 +1,12 @@
+<Alloy>
+    <Window id="rechazar" > 
+        <Label id="detailLabel" top="10" Align= "Ti.UI.TEXT_ALIGNMENT_LEFT" width="300" height= "200" color="#bbb" borderWidth="2" borderColor="#bbb" borderRadius="5"/>
+        <View id="RechazarView" layout="vertical" backgroundColor="F1F8F5">
+            <TextArea id="inputComentario" borderWidth="2" borderColor="#bbb" borderRadius="5"
+            color="#888" textAlign="left" value=""
+            top="220" width="300" height="70"/>
+            <Button id="buttonRechazar" onClick="actionRechazar" top="60"  />
+            <ActivityIndicator id="activityIndicator" />
+        </View>
+    </Window>
+</Alloy>

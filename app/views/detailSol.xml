@@ -1,0 +1,5 @@
+<Alloy>
+    <Window id="detailSolWin" backgroundColor="#F3FFFA" borderWidth="1" borderColor="#bbb" borderRadius="5"> 
+        <Label id="detailLabel" color="#bbb"  textAlign="Ti.UI.TEXT_ALIGNMENT_LEFT"/>
+    </Window>
+</Alloy>
