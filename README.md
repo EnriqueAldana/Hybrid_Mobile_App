@@ -1,4 +1,3 @@
-AlloyAndroidiPhoneNavigationDemo
-================================
+Hybrid Mobile Application
 
-Alloy/Titanium code used for the article: http://www.webdevd.com/titanium-alloy-android-iphone-ui-login-demo/
+The PDF and Mov files shows the features about application
